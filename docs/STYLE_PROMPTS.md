@@ -50,6 +50,12 @@ Create a concept image for an original stylized World War 1 mobile tactics game.
 Create a concept lineup of original stylized World War 1 tactics units for a mobile game: infantry, machine gun team, field gun crew, light tank, medic, and officer. Use lively animated-game proportions, chunky silhouettes, clear team-color accents, readable shapes for small screens, and a warm muted palette. The units should feel charming, tactical, and alive, with poses suitable for idle animations such as adjusting helmets, shifting rifles, looking around, crouching, or operating equipment. They should not look like board-game tokens. No copied characters, logos, or existing game style.
 ```
 
+### Vehicle Lineup Concept
+
+```text
+Create a clean concept sheet for an original stylized World War 1 mobile tactics game showing five compact vehicle units: armored car, small light tank, heavy landship tank, fast tank, and boxy assault tank. Use chunky readable silhouettes, three-quarter isometric view, muted olive and khaki paint, weathered riveted steel, mud-worn treads and wheels, and restrained team-color accents. Each vehicle should feel distinct in gameplay role and fit a tactical grid footprint. No text, no labels, no logos, no modern vehicles, no board-game bases, and no direct copies of museum models.
+```
+
 ### Terrain Tile Concept
 
 ```text
