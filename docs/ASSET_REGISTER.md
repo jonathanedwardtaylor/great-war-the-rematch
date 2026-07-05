@@ -8,7 +8,7 @@ This matters because the project may become commercial. If an asset enters the r
 
 | File | Type | Source | Creator | License / Permission | Commercial Use | Modified | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| _None yet_ | | | | | | | |
+| `assets/reference/battlefield-concept-v1.png` | Concept art | Codex built-in image generation | OpenAI image generation | Project-owned generated reference; verify final commercial terms before production use | Intended reference only | Copied from generated output | Refined battlefield concept: living soldiers, subtle grid, smaller/fewer craters, no marker bases |
 
 ## Asset Types
 
