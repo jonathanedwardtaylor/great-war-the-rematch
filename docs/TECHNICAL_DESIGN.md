@@ -21,6 +21,14 @@ Build the game as an HTML5 project using TypeScript, Phaser, and Vite.
 - Keep early systems simple and testable.
 - Prefer small modules with obvious responsibilities.
 
+## Grid And Camera Direction
+
+- Use an isometric square grid for the tactical board.
+- Keep logical row-and-column coordinates separate from isometric screen coordinates.
+- Support camera zoom early for mobile usability.
+- Design rendering so board rotation can be added as discrete orientations without changing movement rules.
+- See `docs/DECISIONS/0002-board-geometry-and-camera.md`.
+
 ## Proposed Folder Shape
 
 ```text

@@ -35,9 +35,15 @@
 - Crater
 - Objective tile
 
+## Board Geometry
+
+- Use an isometric square grid.
+- Include zoom support early.
+- Plan for board rotation using discrete view orientations.
+- Keep this as a camera/view feature, not a change to the underlying movement grid.
+
 ## Questions To Resolve
 
-- Square grid, hex grid, or isometric square grid?
 - Should attacks be deterministic or probability-based?
 - Should morale/suppression exist in the first prototype or later?
 - Should the first enemy be scripted, rule-based AI, or hot-seat only?
